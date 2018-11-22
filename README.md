@@ -1,6 +1,6 @@
 ### script.js
 ---
-https://github.com/duojs/duo
+https://github.com/ded/script.js
 
 ```
 ```
